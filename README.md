@@ -17,7 +17,10 @@ Hello! I am Pamella Mendes, a **full stack** developer who loves working on the 
   <img align="center" alt="Rafa-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Rafa-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rafa-arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Rafa-intelliJ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intelliJ/intelliJ-original.svg">
+ <img align="center" alt="IntelliJ-IDEA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+ <img align="center" alt="PyCharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+
+
  
 </div>
   

@@ -1,5 +1,6 @@
-## <h1>👩‍💻 About me:</h1>
-Hello! I am Pâmella Mendes, a **full stack** developer who loves working on the front-end, creating amazing experiences in UI/UX, and also dedicates time to back-end development to understand the complete structure of applications.😊
+## <h1>👩‍💻 About me:</h1>  
+Hello! I am Pâmella Mendes, a **Front-end** developer passionate about crafting intuitive and engaging user experiences through UI/UX design. I specialize in building visually appealing and user-friendly interfaces, ensuring seamless interactions that enhance digital products. 🚀✨  
+
 
 
 ![PjskPjskAnimeGIF (2)](https://github.com/user-attachments/assets/5dcd1f5c-bcb6-415e-b4b8-781a0b38997e)

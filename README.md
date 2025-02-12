@@ -6,7 +6,7 @@
 
  I am a **Front-end** developer passionate about crafting intuitive and engaging user experiences through UI/UX design. I specialize in building visually appealing and user-friendly interfaces, ensuring seamless interactions that enhance digital products. 🚀✨  
 
-![Imagem de exemplo][([https://example.com/imagem.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSageMains%2Fcomments%2Fq3yrh9%2Fmade_a_cute_animated_bongo_cat_sage_for_streams%2F&psig=AOvVaw3ZfqB2k6nBq0p3oXJ09H2K&ust=1739476154154000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjU8cj0vosDFQAAAAAdAAAAABAE)](https://i.redd.it/op29vdmnf8s71.gif))
+![Imagem de exemplo]https://i.redd.it/op29vdmnf8s71.gif
 
 </div>
 <div style="display: inline_block"><br>

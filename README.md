@@ -6,8 +6,6 @@
 
  I am a **Front-end** developer passionate about crafting intuitive and engaging user experiences through UI/UX design. I specialize in building visually appealing and user-friendly interfaces, ensuring seamless interactions that enhance digital products. 🚀✨  
 
-![Descrição do GIF]([https://caminho-do-gif.com/exemplo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSageMains%2Fcomments%2Fq3yrh9%2Fmade_a_cute_animated_bongo_cat_sage_for_streams%2F%3Ftl%3Dfil&psig=AOvVaw2JoFmFnU5044LEkm7z54zJ&ust=1739476488997000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJilyen1vosDFQAAAAAdAAAAABAE))
-
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

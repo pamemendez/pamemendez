@@ -25,7 +25,14 @@ Hello! I am Pâmella Mendes, a **Front-end** developer passionate about crafting
 
 
 
-
+</div>
+  
+  ##
+<div> 
+  <a href="https://instagram.com/pam.mendz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "pamella.mendz"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=while" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pâmella-mendes-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pamemendez/pamemendez/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pamemendez/pamemendez/output/github-contribution-grid-snake-dark.svg">
@@ -34,10 +41,3 @@ Hello! I am Pâmella Mendes, a **Front-end** developer passionate about crafting
 
 
  
-</div>
-  
-  ##
-<div> 
-  <a href="https://instagram.com/pam.mendz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "pamella.mendz"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=while" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pâmella-mendes-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

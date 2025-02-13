@@ -4,6 +4,8 @@
   </a>
 </div>
 
+[bv](https://i.pinimg.com/originals/ab/dc/be/abdcbe5fdef8ee78bdc312cda2b67df6.gif)
+
  I am a **Front-end** developer passionate about crafting intuitive and engaging user experiences through UI/UX design. I specialize in building visually appealing and user-friendly interfaces, ensuring seamless interactions that enhance digital products. 🚀✨  
 
 </div>

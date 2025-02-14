@@ -10,6 +10,21 @@
 
  ![GIF Exemplo](https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4Q5ca3FRftDdxhPiw-wRaYl5TrI_zZLMH492smRevAfmBbQEiLaiPIdEv4mS0UQ0YIAO7yw8nICxFrHuba06jglRoQBmO_Pc2swCxyQJ3zM8sB6BIj_9_SF7Mieg8my9zWk9CbJf3P7LcqoNgo0_kMyGVkALDTxoWMmmyrPHV6uF)
 
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

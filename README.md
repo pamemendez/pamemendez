@@ -31,6 +31,7 @@
 
 
 </div>
-  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pâmella-mendes)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:pamella.mendz@gmail.com)  
 
   

@@ -10,7 +10,7 @@
 
  ![GIF Exemplo](https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4Q5ca3FRftDdxhPiw-wRaYl5TrI_zZLMH492smRevAfmBbQEiLaiPIdEv4mS0UQ0YIAO7yw8nICxFrHuba06jglRoQBmO_Pc2swCxyQJ3zM8sB6BIj_9_SF7Mieg8my9zWk9CbJf3P7LcqoNgo0_kMyGVkALDTxoWMmmyrPHV6uF)
 
-
+---
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">

@@ -1,11 +1,10 @@
 **`Desenvolvedora FrontEnd`**
 
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CC0066&height=100&section=header" />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7659C5&height=100&section=header" />
 
-  <img src="https://readme-typing-svg.herokuapp.com/?color=CC0066&size=30&center=true&vCenter=true&width=1000&lines=✦+Hello,+my+name+is+Pâmella+Mendes+✦;✦+Welcome+to+my+profile!+✦">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7659C5&size=30&center=true&vCenter=true&width=1000&lines=✦+Hello,+my+name+is+Pâmella+Mendes+✦;✦+Welcome+to+my+profile!+✦">
 
-![Título do GIF](https://pa1.aminoapps.com/6324/6eb62817624cec1d4064a495c1d0280929513de9_00.gif)
 
 I am a **Front-end** developer passionate about crafting intuitive and engaging user experiences through **UI/UX design**. I specialize in building visually appealing and user-friendly interfaces, ensuring seamless interactions that enhance digital products. 🚀✨ 
 

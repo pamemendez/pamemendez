@@ -1,4 +1,3 @@
-front_end_developer
 
 
 <div align="center">

@@ -8,7 +8,8 @@
    ![Título do GIF](https://media.tenor.com/nBQQ6XM5BhIAAAAj/cute.gif)
 </div>
 
-  I am a **Front-end** developer passionate about crafting intuitive and engaging user experiences through **UI/UX design**. <br> I specialize in building visually appealing and user-friendly interfaces, ensuring seamless interactions that enhance digital products. 🚀✨  
+  I am a **Front-end** developer passionate about crafting intuitive and engaging user experiences through **UI/UX design**. <br> I specialize in building visually appealing and user-friendly interfaces, <br>
+  ensuring seamless interactions that enhance digital products. 🚀✨  
 
 ---
 

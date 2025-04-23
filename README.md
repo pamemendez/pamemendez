@@ -5,8 +5,8 @@
 
   <img src="https://readme-typing-svg.herokuapp.com/?color=CC0066&size=30&center=true&vCenter=true&width=1000&lines=✦+Hello,+my+name+is+Pâmella+Mendes+✦;✦+Welcome+to+my+profile!+✦">
 
-   ![Título do GIF](https://media.tenor.com/nBQQ6XM5BhIAAAAj/cute.gif)
-</div>
+![Título do GIF](https://media.tenor.com/nBQQ6XM5BhIAAAAj/cute.gif)
+
 
   I am a **Front-end** developer passionate about crafting intuitive and engaging user experiences through **UI/UX design**. I specialize in building visually appealing and user-friendly interfaces, 
   ensuring seamless interactions that enhance digital products. 🚀✨ 

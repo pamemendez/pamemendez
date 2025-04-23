@@ -1,9 +1,10 @@
 **`Desenvolvedora FrontEnd`**
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?hfont=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hi!+I'm+Pâmella+Mendes!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7700B8&height=100&section=header" />
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=D692EE&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Pâmella+Mendes;I+like+BackEnd+development;Welcome+to+my+profile!">
+
 </div>
 
                                                                                                                   

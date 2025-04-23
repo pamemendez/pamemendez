@@ -8,7 +8,7 @@
 
 I am a **Front-end** developer passionate about crafting intuitive and engaging user experiences through **UI/UX design**. I specialize in building visually appealing and user-friendly interfaces, ensuring seamless interactions that enhance digital products. 🚀✨ 
 
----
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Tecnologias e Ferramentas:
 

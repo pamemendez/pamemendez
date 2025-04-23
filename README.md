@@ -1,4 +1,4 @@
-**`Desenvolvedora FrontEnd`**
+**`Front-End Developer**
 
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E48EA&height=100&section=header" />
@@ -10,7 +10,7 @@ I am a **Front-end** developer passionate about crafting intuitive and engaging 
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Tecnologias e Ferramentas:
+### Technologies and Tools:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="30" width="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" height="30" width="40">
@@ -30,7 +30,7 @@ I am a **Front-end** developer passionate about crafting intuitive and engaging 
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Contato:
+### Contact:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/Pâmella-Mendes)  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:pamella.mendz@gmail.com)

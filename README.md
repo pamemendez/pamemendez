@@ -9,9 +9,7 @@
                                                                                                                   
  I am a **Front-end** developer passionate about crafting intuitive and engaging user experiences through **UI/UX design**. I specialize in building visually appealing and user-friendly interfaces, ensuring seamless interactions that enhance digital products. 🚀✨  
 
- 
-
- ![GIF Exemplo][(https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4Q5ca3FRftDdxhPiw-wRaYl5TrI_zZLMH492smRevAfmBbQEiLaiPIdEv4mS0UQ0YIAO7yw8nICxFrHuba06jglRoQBmO_Pc2swCxyQJ3zM8sB6BIj_9_SF7Mieg8my9zWk9CbJf3P7LcqoNgo0_kMyGVkALDTxoWMmmyrPHV6uF](https://media.tenor.com/nBQQ6XM5BhIAAAAj/cute.gif))
+ ![Título do GIF](https://media.tenor.com/nBQQ6XM5BhIAAAAj/cute.gif)
 
 ---
 
